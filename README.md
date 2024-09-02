@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arvin</h1>
 <h3 align="center">A passionate frontend developer from Persia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tousdangocraz" alt="tousdangocraz" /></a> </p>
 
 - 🔭 I’m currently working on [Booker](github.com/TousdanGoCraz/BookerApp)
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **NodeJs**
 
 - 👨‍💻 All of my projects are available at [tousdan.netlify.app](tousdan.netlify.app)
 
-- 💬 Ask me about **OOP,responsive design**
+- 💬 Ask me about **OOP Responsive Design Js HTML CSS **
 
 - 📫 How to reach me **arvinnemati95@gmail.com**
 
-- ⚡ Fun fact **Consort Radahn was fun**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
