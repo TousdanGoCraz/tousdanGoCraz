@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arvin</h1>
-<h3 align="center">A passionate Full-stack Software Engineer, Tutor, FromSoft fan!</h3>
+<h3 align="center">A passionate Full-stack Software Engineer, Tutor, and FromSoft fan!</h3>
 
 
 - 🔭 I’m currently working on [Booker](github.com/TousdanGoCraz/BookerApp)
