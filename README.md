@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-stack Software Engineer, Tutor, and FromSoft fan!</h3>
 
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [tousdan.netlify.app](tousdan.netlify.app)
 
