@@ -2,13 +2,11 @@
 <h3 align="center">A passionate Full-stack Software Engineer, Tutor, and FromSoft fan!</h3>
 
 
-- 🔭 I’m currently working on [Booker](github.com/TousdanGoCraz/BookerApp)
-
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Express**
 
 - 👨‍💻 All of my projects are available at [tousdan.netlify.app](tousdan.netlify.app)
 
-- 💬 Ask me about **OOP Responsive Design Js HTML CSS **
+- 💬 Ask me about **OOP NodeJS JS HTML CSS **
 
 - 📫 How to reach me **arvinnemati95@gmail.com**
 
